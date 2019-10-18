@@ -6,6 +6,3 @@ I made this notebook for Maths Week 2019 for my visit to fourth class primary sc
 This repository contains a jupyter notebook which demonstrates how maths can be used to model an ecosystem. 
 I use the predator prey equation to illustrate how the introduction of Wolves could result in an 
 increase in the deer population.
-
-
-<a href="Predator%20Prey%20Model%20Wolves/Predator%20Prey%20Model%20Wolves.md"> temp</a>
