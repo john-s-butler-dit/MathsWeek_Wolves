@@ -8,4 +8,4 @@ I use the predator prey equation to illustrate how the introduction of Wolves co
 increase in the deer population.
 
 
-<a href="Predator Prey Wolves Model.md"> temp</a>
+<a href="Predator%20Prey%20Model%20Wolves/Predator%20Prey%20Model%20Wolves.md"> temp</a>
