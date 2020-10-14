@@ -1,5 +1,5 @@
 # Maths Week 
-I made this notebook for Maths Week 2019 for my visit to fourth class primary school.
+I made this notebook for Maths Week 2019 for my visit to fourth class in St Marnock's John primary school.
 
 ## How maths can model the reintroduction of Wolves to Ireland
 
